@@ -97,4 +97,4 @@ I love the challenge of finding out of box approaches & applying them to increas
 <img width="70%" src="https://github-profile-trophy.vercel.app/?username=tushar2704&theme=monokai" />
 <img align="right" width ="180" height="140" src="https://user-images.githubusercontent.com/42711978/107769049-5b88a500-6d5d-11eb-80a2-28bd4ce78fa5.gif"/>
 
-</details>
+</details>,
