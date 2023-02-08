@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.cognitoai.in/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/215611478-21fb7b76-3069-4831-8baa-5957d4f0d8a4.gif" alt="my banner"></a>
+  <a href="https://www.cognitoai.in/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/217450577-5594ff8b-0b96-4e0e-b125-d810d0c00f12.gif" alt="my banner"></a>
 </p>
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="tushar2704" /> </h3>
