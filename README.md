@@ -15,14 +15,15 @@ I'm a Certified Data Scientist 💻, Finance professional💹, Screen Writer✍�
 I love the entire process of solving complex business problems leveraging data. I love the entire process of solving complex business problems by leveraging data,
 I love the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various projects and Kaggle Notebooks that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
-### 🤝 Connect with me:
+### 🤝 Connect with me & Review my works on:
 
 <a href="https://www.linkedin.com/in/tusharaggarwalinseec/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
 <a href="https://www.kaggle.com/tusharaggarwal27"><img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Tushar | Kaggle" width="150px"/></a>
 <a href="https://medium.com/@tushar_aggarwal"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
+<a href="https://public.tableau.com/app/profile/tushar.aggarwal"><img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 <br><br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
