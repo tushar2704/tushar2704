@@ -34,6 +34,7 @@ I love the challenge of finding out of box approaches & applying them to increas
 - My Freelancing Projects on Upwork
 - My next blog
 
+## [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6M7JOJ)
 
 ## 🌱 I'm currently learning
 
