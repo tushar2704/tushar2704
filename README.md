@@ -27,15 +27,12 @@ I love the challenge of finding out of box approaches & applying them to increas
 
 ## 🔭 I'm currently working on
 
-- Research projects with Geeklurn
-- Consultantion with Datamites
 - My projects 
 - My Kaggle Notebooks and Competitions
 - My Freelancing Projects on Upwork
 - My next blog
 
-## [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6M7JOJ)
-
+## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## 🌱 I'm currently learning
 
 - Advanced Deep Learning
@@ -66,7 +63,9 @@ I love the challenge of finding out of box approaches & applying them to increas
 
 ## 📝 Latest Blog Posts
 
--
+- <a href="https://medium.com/data-and-beyond/become-a-sqlite3-pro-mastering-data-manipulation-and-analysis-techniques-with-step-by-step-python-3ec31dda4582"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Tushar | Medium" width="80px"/></a>
+
+
 
 ## 📈 GitHub Stats 
 
