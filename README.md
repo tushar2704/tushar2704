@@ -21,8 +21,6 @@ I love the challenge of finding out of box approaches & applying them to increas
 <a href="https://www.tushar-aggarwal.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/e3f66f35-bbf1-44f2-82fb-5fae85dca3a1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
 <a href="https://medium.com/@tushar_aggarwal"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 <a href="https://tadata.substack.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/116409dc-f006-47de-853b-d1c8eb4067e8" alt="Tushar | LinkedIn" width="170px"/></a>
-<br><br>
-<a href="https://public.tableau.com/app/profile/tushar.aggarwal"><img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 <a href="https://www.novypro.com/profile_projects/tusharagg"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
 
 
