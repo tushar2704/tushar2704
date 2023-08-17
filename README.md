@@ -22,7 +22,7 @@ I love the challenge of finding out of box approaches & applying them to increas
 <a href="https://medium.com/@tushar_aggarwal"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 <a href="https://tadata.substack.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/116409dc-f006-47de-853b-d1c8eb4067e8" alt="Tushar | LinkedIn" width="170px"/></a>
 <br><br>
-<a href="https://www.novypro.com/profile_projects/tusharagg"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
+<a href="https://www.novypro.com/profile_projects/tusharagg"><img align="center" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
 
 
 <br><br>
