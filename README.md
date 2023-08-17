@@ -24,6 +24,8 @@ I love the challenge of finding out of box approaches & applying them to increas
 <br><br>
 <a href="https://public.tableau.com/app/profile/tushar.aggarwal"><img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 <a href="https://www.novypro.com/profile_projects/tusharagg"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
+
+
 <br><br>
 
 - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
