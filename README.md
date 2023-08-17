@@ -69,33 +69,22 @@ I love the challenge of finding out of box approaches & applying them to increas
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tushar2704)](https://github.com/tushar2704)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2704&layout=compact)](https://github.com/tushar2704)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tushar2704.tushar2704)](https://github.com/tushar2704)
-
-<details>	
-  <summary><b>📈 GITHUB STATISTICS ⚡</b></summary>
-  <br>
 <p align="left">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tushar2704&show_icons=true&theme=monokai" />
   <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2704&count_private=true&theme=monokai" />
 
 </p>
-<br>
-</details>
-
-<details>	
-  <summary><b>☄️ GITHUB STREAKS 😎</b></summary>
-
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar2704&hide_border=true" />
-<img align="right" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
-
-</details>
-<details>	
-  <summary><b>🏆 GITHUB TROPHY</b></summary>
 <img width="70%" src="https://github-profile-trophy.vercel.app/?username=tushar2704&theme=monokai" />
-<img align="right" width ="180" height="140" src="https://user-images.githubusercontent.com/42711978/107769049-5b88a500-6d5d-11eb-80a2-28bd4ce78fa5.gif"/>
+<br>
 
-</details>
+<p ">
+<img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar2704"/>
+<img  align="right" width="40%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar2704&hide_border=true" />
+</p>
+
+
+
+
+
+
+
