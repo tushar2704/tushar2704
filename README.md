@@ -30,16 +30,17 @@ I love the challenge of finding out of box approaches & applying them to increas
 
 ## 🔭 I'm currently working on
 
-- My projects 
-- My Kaggle Notebooks and Competitions
+- My Portfolio projects 
+- My Certifications
 - My Freelancing Projects on Upwork
 - My next blog
 
 ## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## 🌱 I'm currently learning
 
+- MLOPS
+- A.I. Product Management
 - Advanced Deep Learning
-- Docker, APIs
 - Strategic Planning for Data
 - Advanced AI for complete automation  
 
