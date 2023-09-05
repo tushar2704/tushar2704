@@ -5,7 +5,7 @@
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="tushar2704" /> </h3>
 
 <h1 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/tusharaggarwalinseec/" target="_blank" rel="noreferrer">Tushar Aggarwal</a> 👋
+Hi there, I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Tushar Aggarwal</a> 👋
 </h1>
 
 <h2 align="center">
