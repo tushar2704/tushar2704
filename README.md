@@ -23,9 +23,6 @@ I love the challenge of finding out of box approaches & applying them to increas
 <a href="https://tadata.substack.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/116409dc-f006-47de-853b-d1c8eb4067e8" alt="Tushar | LinkedIn" width="170px"/></a>
 <a href="https://www.novypro.com/profile_projects/tusharagg"><img align="center" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
 
-
-<br><br>
-
 - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
