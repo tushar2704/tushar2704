@@ -12,10 +12,10 @@ Hi there, I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="no
 I'm a Certified Data Scientist 💻, Finance professional💹, Screen Writer✍️ </br>& RNCP certified Manager(Europe)👨‍💼!
 </h2> 
 
-I love the entire process of solving complex business problems leveraging data. I love the entire process of solving complex business problems by leveraging data,
-I love the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various projects and Kaggle Notebooks that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
+I love the entire process of solving complex business problems leveraging data.
+I love the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, PostgreSQL, Machine Learning, Data Analytics, NLP, Computer vision projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
-### 🤝 Connect with me & Review my works on:
+### 🤝 Connect with me 🤝
 
 <a href="https://www.linkedin.com/in/tusharaggarwalinseec/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
 <a href="https://www.tushar-aggarwal.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/e3f66f35-bbf1-44f2-82fb-5fae85dca3a1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
