@@ -34,6 +34,7 @@ I love the entire process of solving complex business problems leveraging data &
 ## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## 🌱 I'm currently learning
 
+- MOJO for AI
 - MLOPS
 - A.I. Product Management
 - Advanced Deep Learning
