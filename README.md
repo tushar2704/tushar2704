@@ -26,7 +26,8 @@ I love the entire process of solving complex business problems leveraging data &
 
 ## 🔭 I'm currently working on
 
-- My Portfolio projects 
+- My Portfolio projects
+- My Saas platforms
 - My Certifications
 - My Freelancing Projects on Upwork
 - My next blog
