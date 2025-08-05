@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/218668081-bb444285-0ae1-4bca-9d89-bbe9ff1c40cb.gif" alt="my banner"></a>
-</p>
+
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="tushar2704" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
@@ -8,9 +6,6 @@
 I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Tushar Aggarwal</a> 👋
 </h1>
 
-<h2 align="center">
-I'm a Certified Data Scientist 💻, Finance professional💹, Screen Writer✍️ </br>& RNCP certified Manager(Europe)👨‍💼!
-</h2> 
 
 I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, PostgreSQL, Machine Learning, Data Analytics, NLP, Computer vision projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
@@ -26,21 +21,8 @@ I love the entire process of solving complex business problems leveraging data &
 
 ## 🔭 I'm currently working on
 
-- My Portfolio projects
 - My Saas platforms
-- My Certifications
-- My Freelancing Projects on Upwork
-- My next blog
-
-## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-## 🌱 I'm currently learning
-
-- MOJO for AI
-- MLOPS
-- A.I. Product Management
-- Advanced Deep Learning
-- Strategic Planning for Data
-- Advanced AI for complete automation  
+  
 
 ## 💼 Technical Skills
 
@@ -99,21 +81,9 @@ I love the entire process of solving complex business problems leveraging data &
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 ## 📝 Latest Blog Posts
 
-- <a href="https://medium.com/data-and-beyond/become-a-sqlite3-pro-mastering-data-manipulation-and-analysis-techniques-with-step-by-step-python-3ec31dda4582"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Tushar | Medium" width="80px"/></a>
-
-
 
 
 ## 📈 GitHub Stats 
-
-<p align="left">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tushar2704&theme=prussian&show_icons=true" />
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2704&count_private=true&theme=prussian" />
-
-</p>
-
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=tushar2704&theme=prussian" />
-<br>
 
 <p ">
 <img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar2704"/>
